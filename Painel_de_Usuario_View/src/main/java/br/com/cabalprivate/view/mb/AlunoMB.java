@@ -9,8 +9,8 @@ import javax.faces.bean.ViewScoped;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.context.support.SpringBeanAutowiringSupport;
 
-import br.com.wtsyst.bean.Aluno;
-import br.com.wtsyst.controle.AlunoBCI;
+import br.com.cabalprivate.bean.Aluno;
+import br.com.cabalprivate.controle.AlunoBCI;
 
 
 
