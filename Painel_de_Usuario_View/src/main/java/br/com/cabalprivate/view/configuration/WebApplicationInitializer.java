@@ -5,7 +5,7 @@ import org.springframework.core.annotation.Order;
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
 @Configuration
-@ComponentScan(basePackages = { "br.com.wtsyst" })
+@ComponentScan(basePackages = { "br.com.cabalprivate" })
 @Order(1)
 public class WebApplicationInitializer extends AbstractAnnotationConfigDispatcherServletInitializer {
 
