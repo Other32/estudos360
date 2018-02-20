@@ -15,17 +15,17 @@ public class AlunoBC implements AlunoBCI {
 	@Autowired
 	private AlunoDaoI dao;
 	
-	@Override
+	//@Override
 	public void insert(Aluno a) {
 		dao.save(a);
 	}
 
-	@Override
+//	@Override
 	public List<Aluno> select() {
 		return dao.findAll();
 	}
 
-	@Override
+//	@Override
 	public void atualizar(Aluno a) {
 		
 		dao.save(a);
