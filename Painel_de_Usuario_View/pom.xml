@@ -36,8 +36,8 @@
 		</dependency>
 
 		<dependency>
-			<groupId>WTSyst--controle</groupId>
-			<artifactId>WTSyst--controle</artifactId>
+			<groupId>Painel_de_Usuario_Controle</groupId>
+			<artifactId>Painel_de_Usuario_Controle</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 
