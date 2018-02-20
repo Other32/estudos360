@@ -38,7 +38,7 @@
 		<dependency>
 			<groupId>Painel_de_Usuario_Controle</groupId>
 			<artifactId>Painel_de_Usuario_Controle</artifactId>
-			<version>0.0.2-SNAPSHOT</version>
+			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 
 		<!-- JSF -->
